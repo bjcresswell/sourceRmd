@@ -8,3 +8,5 @@ Description: Use to source code from one .Rmd file into another
 License: Creative commons
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/bjcresswell/sourceRmd
+BugReports: https://github.com/bjcresswell/sourceRmd/issues
