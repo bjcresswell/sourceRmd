@@ -1,0 +1,10 @@
+Package: sourceRmd
+Type: Package
+Title: Sources code in external .Rmd files
+Version: 0.1.0
+Author: Ben Cresswell
+Maintainer: The package maintainer <bjcresswell@gmail.com>
+Description: Use to source code from one .Rmd file into another 
+License: Creative commons
+Encoding: UTF-8
+LazyData: true
