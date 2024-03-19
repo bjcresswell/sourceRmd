@@ -3,4 +3,4 @@
 install.packages("devtools")
 
 # Install sourceRmd
-devtools::install_github(bjcresswell/sourceRmd)
+devtools::install_github("bjcresswell/sourceRmd")
